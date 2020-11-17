@@ -1,4 +1,4 @@
-# Project Portfolio
+# Data Science Projects
 ## Cindy Hu
 
 ### [2019 San Francisco Survey Analysis](https://github.com/hucindy/sf-survey-2019)
