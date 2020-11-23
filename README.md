@@ -22,3 +22,5 @@
 -   Predicted the diagnosis of patients with 88% accuracy using Logistic Regression, and with 97% accuracy using Random Forest.
 -   Analyzed importance of variables and performance of models using variable importance plots, confusion matrices, and ROC curves.
 
+### [San Francisco Crime Dashboard](https://public.tableau.com/profile/hucindy#!/vizhome/SFCrime_16061174023600/Dashboard1)
+-   Created dashboard of crime in San Francisco using Tableau.
